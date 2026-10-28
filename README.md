@@ -28,8 +28,10 @@ python week07/functions.py
 
 ### 1. Commit History
 
-```text
-Paste your git log --oneline output here.
+```f05520b (HEAD -> main, origin/main, origin/HEAD) add README with module listing and reflection
+9c78ec0 add module 7 functions
+7a66bf3 add .gitignore for Python and OS files
+7de814f Initial commit
 ```
 
 My commit history shows how I organized my work into separate changes. Using descriptive commit messages makes it easier to understand what I worked on and track my progress.
